@@ -79,4 +79,4 @@ Recuperar por ID:
 
 Para eliminar un ticket se usa la ruta de la imagen con el id correspondiente.
 
-![alt text](img/4.PNG)
+![alt text](img/5.PNG)
